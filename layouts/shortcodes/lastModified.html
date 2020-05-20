@@ -1,0 +1,3 @@
+{{ if ne .Page.Lastmod .Page.Date }}
+<small>Last modified {{ .Page.Lastmod.Format "2006-01-02" }}</small>
+{{ end }}
