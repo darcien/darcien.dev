@@ -1,5 +1,7 @@
 ---
 title: "WIP: Playlist"
+date: "2020-05-23"
+lastmod: "2020-05-24"
 draft: true
 ---
 
