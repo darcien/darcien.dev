@@ -1,0 +1,40 @@
+{{ $arg := .Get 0 }}
+{{ $artist := index .Site.Data.artists $arg }}
+
+<h2>
+  <a href="{{ $artist.link }}">{{ $artist.name }}</a>
+</h2>
+<table style="table-layout:fixed">
+  <tr>
+    <th style="width:48px">No</th>
+    <th style="width:240px;">Track</th>
+    <th style="width:140px">Album</th>
+    <th style="width:100px">Date</th>
+    <th style="width:112px">Price (JPY)</th>
+    <th style="width:100px">Link</th>
+  </tr>
+  {{ $.Scratch.Set "trackNo" 0 }}
+  {{ range $i, $album := $artist.albums }}
+    {{ range $j, $track := $album.tracks }}
+      {{ $.Scratch.Add "trackNo" 1}}
+      <tr>
+        <td class="right">{{ $.Scratch.Get "trackNo" }}</td>
+        <td>{{ $track }}</td>
+        {{ if eq $j 0 }}
+          {{ $rowspan := len $album.tracks }}
+          <td rowspan="{{ $rowspan }}">{{ $album.name }}</td>
+          <td rowspan="{{ $rowspan }}">{{ $album.date }}</td>
+          <td class="right" rowspan="{{ $rowspan }}">¥{{ lang.NumFmt 0 $album.price }}</td>
+          <td rowspan="{{ $rowspan }}">
+            <a href="{{ $album.link }}">
+              <!-- Maybe it's better to put the link name in the data? -->
+              {{ $url := urls.Parse $album.link }}
+              {{ $url.Host | upper }}
+            </a>
+          </td>
+        {{ end }}
+      </tr>
+    {{ end }} 
+  {{ end }} 
+  </table>
+  
