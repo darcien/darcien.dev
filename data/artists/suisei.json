@@ -1,0 +1,27 @@
+{
+  "name": "Hoshimachi Suisei (星街すいせい)",
+  "link": "https://en.hololive.tv/portfolio/items/433550",
+  "albums": [
+    {
+      "name": "-",
+      "tracks": ["comet"],
+      "link": "https://youtu.be/3cqV5BKJHyk",
+      "price": 0,
+      "date": "2018-11-22"
+    },
+    {
+      "name": "-",
+      "tracks": ["天球、彗星は夜を跨いで"],
+      "link": "https://youtu.be/zLak0dxBKpM",
+      "price": 0,
+      "date": "2019-03-22"
+    },
+    {
+      "name": "-",
+      "tracks": ["NEXT COLOR PLANET"],
+      "link": "https://youtu.be/vQHVGXdcqEQ",
+      "price": 0,
+      "date": "2020-03-22"
+    }
+  ]
+}
