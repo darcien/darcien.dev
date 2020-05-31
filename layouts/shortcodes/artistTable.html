@@ -2,8 +2,7 @@
 {{ $artist := index .Site.Data.artists $arg }}
 
 <h2 id="{{ anchorize $artist.name }}">
-  <a href="{{ $artist.link }}">{{ $artist.name }}</a>
-  <a href="#{{ anchorize $artist.name }}" class="hanchor" arialabel="Anchor">⌗</a>
+  <a href="{{ $artist.link }}">{{ $artist.name }}</a><a href="#{{ anchorize $artist.name }}" class="hanchor" arialabel="Anchor">⌗</a>
 </h2>
 {{ if $artist.note }}
 <p>
@@ -35,7 +34,12 @@
             <a href="{{ $album.link }}">
               <!-- Maybe it's better to put the link name in the data? -->
               {{ $url := urls.Parse $album.link }}
-              {{ $url.Host | upper }}
+              {{ $displayedUrl := $url.Host | upper }}
+              {{ if ge (len $displayedUrl) 11 }}
+              {{ slicestr $displayedUrl 0 11 }}
+              {{ else }}
+              {{ $displayedUrl }}
+              {{ end }}
             </a>
           </td>
         {{ end }}
