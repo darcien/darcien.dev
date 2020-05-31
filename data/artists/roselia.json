@@ -1,0 +1,54 @@
+{
+  "name": "Roselia",
+  "link": "https://vgmdb.net/artist/27993",
+  "albums": [
+    {
+      "name": "Anfang",
+      "tracks": [
+        "Neo-Aspect",
+        "BLACK SHOUT",
+        "Opera of the wasteland",
+        "陽だまりロードナイト",
+        "ONENESS",
+        "Re:birth day",
+        "Legendary",
+        "－HEROIC ADVENT－",
+        "Determination Symphony",
+        "熱色スターマイン",
+        "軌跡",
+        "LOUDER"
+      ],
+      "link": "https://music.apple.com/jp/album/anfang/1371270806",
+      "price": 3456,
+      "date": "2018-05-02"
+    },
+    {
+      "name": "R",
+      "tracks": ["R", "Neo-Aspect (リマスターver.)"],
+      "link": "https://music.apple.com/jp/album/r-ep/1407581990",
+      "price": 1404,
+      "date": "2018-07-25"
+    },
+    {
+      "name": "Safe and Sound",
+      "tracks": ["Safe and Sound", "PASSIONATE ANTHEM"],
+      "link": "https://music.apple.com/jp/album/safe-and-sound-single/1450478302",
+      "price": 1404,
+      "date": "2019-02-20"
+    },
+    {
+      "name": "FIRE BIRD",
+      "tracks": ["FIRE BIRD", "Ringing Bloom"],
+      "link": "https://music.apple.com/jp/album/fire-bird-single/1471487514",
+      "price": 1404,
+      "date": "2019-07-24"
+    },
+    {
+      "name": "約束",
+      "tracks": ["約束", "\"UNIONS\" Road"],
+      "link": "https://music.apple.com/jp/album/%E7%B4%84%E6%9D%9F-single/1492221949",
+      "price": 1430,
+      "date": "2020-01-15"
+    }
+  ]
+}
