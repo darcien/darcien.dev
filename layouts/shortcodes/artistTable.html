@@ -5,6 +5,11 @@
   <a href="{{ $artist.link }}">{{ $artist.name }}</a>
   <a href="#{{ anchorize $artist.name }}" class="hanchor" arialabel="Anchor">⌗</a>
 </h2>
+{{ if $artist.note }}
+<p>
+  Note: {{ $artist.note }}
+</p>
+{{ end }}
 <table style="table-layout:fixed">
   <tr>
     <th style="width:48px">No</th>
