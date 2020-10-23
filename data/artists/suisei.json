@@ -1,7 +1,7 @@
 {
   "name": "Hoshimachi Suisei (星街すいせい)",
   "link": "https://en.hololive.tv/portfolio/items/433550",
-  "note": "As far as I know, Suisei hasn't released any CDs for sale.",
+  "note": "As far as I know, Suisei hasn't released any physical CDs for sale.",
   "albums": [
     {
       "name": "-",
@@ -20,8 +20,8 @@
     {
       "name": "-",
       "tracks": ["NEXT COLOR PLANET"],
-      "link": "https://youtu.be/vQHVGXdcqEQ",
-      "price": 0,
+      "link": "https://music.apple.com/jp/album/next-color-planet-single/1523284265",
+      "price": 255,
       "date": "2020-03-22"
     }
   ]
