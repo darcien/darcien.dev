@@ -40,7 +40,7 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Darcien's Personal Garden"
+    title = "Darcien's Personal Blog"
     subtitle = "Powered by ☕️"
     owner = ""
     keywords = ""
@@ -64,10 +64,6 @@ paginate = 5
         identifier = "about"
         name = "About"
         url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "coffee"
-        name = "Coffee"
-        url = "/coffee"
       [[languages.en.menu.main]]
         identifier = "playlist"
         name = "Playlist"
