@@ -118,7 +118,7 @@ But after the physical goods from the same package arrived at my place and I sti
 
 For the first inquiry, I used the consolidated package number, and this is their response:
 
-```txt
+```
 Fri, Dec 18, 2020 at 11:01
 
 Dear Yosua Ian Sebastian,
@@ -145,7 +145,7 @@ I know that BOOTH should still have the download link available since the produc
 So I tried to contact the customer support one more time, this time using the individual package number instead of the consolidated one.
 
 And they replied:
-```txt
+```
 Fri, Dec 18, 2020 at 17:13
 
 Dear Yosua Ian Sebastian,
