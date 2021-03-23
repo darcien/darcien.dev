@@ -82,9 +82,15 @@ With Buyee, since it's a proxy service, I can actually buy multiple items from d
 There are two services from Buyee that I usually use, package consolidation and protective packaging.
 Package consolidation is just a service to consolidate multiple packages into a single package. It costs 500 JPY to consolidate 2 packages[^3].
 They might still split it into multiple packages if it's too big though.
-And the protective packaging is another optional service which they add a bunch of air pillows and other protective packaging to the goods[^4].
+And the protective packaging is another optional service which they add a bunch of air bags and other protective packaging to the goods[^4].
 
-<!-- TODO: insert air pillow pics here -->
+{{< figure
+    src="/img/buyee-air-bag.jpg"
+    alt="Air bag from buyee"
+    caption="These are the air bags from Buyee"
+    position="center"
+    style="border-radius: 8px;"
+>}}
 
 It costs 1500 JPY, which is pretty expensive in my opinion.
 But I don't want to take any risk when buying fragile goods like acrylic panel, so I opted in anyway.
