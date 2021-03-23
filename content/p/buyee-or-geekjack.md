@@ -7,6 +7,7 @@ tags = ["vtuber"]
 keywords = ["vtuber", "buyee", "geek jack"]
 description = "My notes and comparison regarding buying VTuber goods through Buyee and Geek Jack."
 showFullContent = false
+lastmod = "2021-03-23"
 +++
 
 
@@ -31,6 +32,10 @@ Some goods are pre-ordered, so the total days doesn't count the days where the s
 | Marin Birthday 2020 Full Set | 10000 | Buyee | 1800 | 3080 | 07-08-2020 | 133 | 8 |
 | Shion 2nd Anniv Full Set | 10000 | Buyee | 1800 | 2810 | 18-08-2020 | 122 | 23 |
 | Mio Birthday 2020 Full Set | 9000 | Buyee | 800 | 3991 | 11-09-2020 | 102 | 6 |
+| Beyond the Stage Supporting Set + Tapestry | 13000 | Geek Jack | - | 2400 | 24-10-2020 | ~93 | 12 |
+| Beyond the Stage Hoodie | 7500 | Geek Jack | - | 2400 | 30-10-2020 | ~87 | 12 |
+| Hoshimachi 500K Subs Goods | 11000 | Buyee | 800 | 3265 | 19-10-2020 | 151 | 17 |
+| Shirakami Birthday 2020 Full Set | 10000 | Buyee | 800 | 3265 | 6-10-2020 | 164 | 17 |
 
 ## Services Comparison
 
@@ -68,6 +73,8 @@ So most of the time, the only ones available are EMS(Japan Post International Co
 <!-- TODO: Expand on DHL here -->
 
 Meanwhile, Geek Jack only ships with EMS, so there's no choice there[^2].
+
+Updates: On January 2021, Geek Jack seems to ship my package with [ECMS](https://www.global.ecmsglobal.com/) instad of EMS. When the package arrived in Indonesia, I got contacted by their staff, asking confirmation whether I want to pay for the tax or not. Then I got hit by expensive entry tax that basically doubles the price. At this point I don't think I can recommend Geek Jack over Buyee for cheaper total fee.
 
 - Prices
 
@@ -205,12 +212,10 @@ But I haven't tried it before, probably the delivery cost is going to sting a bi
 
 ## Conclusion
 
-If the goods are available on Geek Jack, it might be cheaper and easier to just buy it from them.
-Otherwise, try using proxy service like Buyee to buy it from BOOTH.
+If the goods are available on Geek Jack, it might be cheaper and easier to just buy it from them. (Assuming they still use EMS.)
+For now I prefer using Buyee to buy it from BOOTH.
 
-## Photos
-
-(Will update when I'm back from vacation.)
+In the future I think I'll try buying through Indonesian based proxy service like [kyou.id](https://kyou.id/).
 
 ## References
 [^1]: https://web.archive.org/web/20201227111304/https://buyee.jp/help/yahoo/guide/shipping-method?lang=en
