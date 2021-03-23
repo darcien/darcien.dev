@@ -72,6 +72,14 @@ Buyee support various delivery, but most of them have low upper limit for size o
 So most of the time, the only ones available are EMS(Japan Post International Courier), DHL, and Japan Post Seamail.
 <!-- TODO: Expand on DHL here -->
 
+{{< figure
+    src="/img/buyee-shipping-method.png"
+    alt="Buyee shipping methods"
+    caption="These are the available methods at Buyee on March 2021"
+    position="center"
+    style="border-radius: 8px;"
+>}}
+
 Meanwhile, Geek Jack only ships with EMS, so there's no choice there[^2].
 
 Updates: On January 2021, Geek Jack seems to ship my package with [ECMS](https://www.global.ecmsglobal.com/) instad of EMS. When the package arrived in Indonesia, I got contacted by their staff, asking confirmation whether I want to pay for the tax or not. Then I got hit by expensive entry tax that basically doubles the price. At this point I don't think I can recommend Geek Jack over Buyee for cheaper total fee.
