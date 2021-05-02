@@ -68,7 +68,3 @@ paginate = 5
         identifier = "playlist"
         name = "Playlist"
         url = "/playlist"
-      [[languages.en.menu.main]]
-        identifier = "shed"
-        name = "Shed"
-        url = "/shed"
